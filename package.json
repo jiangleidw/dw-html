@@ -1,0 +1,22 @@
+{
+  "name": "dw-html",
+  "version": "1.0.0",
+  "description": "dw-html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangleidw/dw-html.git"
+  },
+  "keywords": [
+    "dw"
+  ],
+  "author": "yjy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangleidw/dw-html/issues"
+  },
+  "homepage": "https://github.com/jiangleidw/dw-html#readme"
+}
